@@ -4,7 +4,7 @@ import turtle, random, time, colorsys, os
 mywindow = turtle.Screen()
 mywindow.setup(1309,783)
 mywindow.bgpic("arcade.gif")
-mywindow.title("sneksss")
+mywindow.title("retro-snake")
 
 #---------TITLE SCREEN----------
 
