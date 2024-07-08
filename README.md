@@ -1,4 +1,4 @@
-# retrosnakegame
+# retro-snakegame
 
 ![image](https://github.com/azka-siddiqui/retrosnakegame/assets/129907688/aa15654b-4371-4a62-9f82-357f9282d887)
 
